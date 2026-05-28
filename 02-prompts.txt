@@ -1,0 +1,44 @@
+Prompt 1
+
+Write UGC-style Instagram ad scripts for a fitness center called FitZone Gym & Fitness Center in Hyderabad.
+
+Tone:
+Energetic, motivating, authentic, and conversion-focused.
+
+Generate:
+
+* 5 hooks
+* 3 short ad scripts
+* 5 CTA lines
+* Instagram captions
+
+Keep the language natural, engaging, and social-media friendly.
+
+Prompt 2
+
+Generate short Instagram Reel ad scripts for a gym called FitZone Gym & Fitness Center in Hyderabad.
+
+Tone:
+Motivational, energetic, and realistic.
+
+Include:
+
+* Strong opening hook
+* Fitness problem
+* Solution
+* CTA
+
+Keep scripts under 30 seconds.
+
+Prompt 3
+
+Write transformation-focused UGC ad scripts for FitZone Gym.
+
+Focus on:
+
+* Weight loss
+* Confidence improvement
+* Better lifestyle
+* Gym motivation
+
+Tone should feel authentic and relatable.
